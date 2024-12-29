@@ -1,0 +1,12 @@
+[package]
+name = "local-chat-model"
+version = "0.1.0"
+edition = "2021"
+keywords = ["kovi", "kovi-plugin", "ollama"]
+description = "基于ollama的本地大模型插件"
+license = "MPL-2.0"
+authors = ["yunshen <yunshen4869@gmail.com>"]
+
+[dependencies]
+kovi = ">=0.8.0"
+ollama-rs = "0.2.1"
