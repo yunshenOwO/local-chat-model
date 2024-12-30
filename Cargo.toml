@@ -1,5 +1,5 @@
 [package]
-name = "local-chat-model"
+name = "kovi-plugin-local-chat-model"
 version = "0.1.0"
 edition = "2021"
 keywords = ["kovi", "kovi-plugin", "ollama"]
